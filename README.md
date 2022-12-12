@@ -1,1 +1,2 @@
 # odin-recipes
+This is a project from The Odin Project, an online resource for learning Web Development. In this project, I created a simple recipe website, through which I learned HTML syntax, basic file organisation and the basics of using Git and Github.
