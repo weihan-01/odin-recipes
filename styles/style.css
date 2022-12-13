@@ -4,8 +4,9 @@
 
 .main {
     font-size: 50px;
-    text-align: center;
+    text-align: left;
     background-color: maroon;
+    color: antiquewhite;
 }
 
 .recipe-list {
